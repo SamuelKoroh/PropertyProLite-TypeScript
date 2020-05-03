@@ -1,3 +1,4 @@
-export default AuthService{
-    
+export default AuthService
+{
+
 }
